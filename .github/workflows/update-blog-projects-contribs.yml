@@ -1,0 +1,33 @@
+name: Update Blog Posts, Projects, and Contributions
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Runs daily at 01:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests PyGithub
+
+      - name: Update README with latest blog posts, projects, and contributions
+        run: |
+          python .github/scripts/update_readme_dynamic.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git diff --cached --quiet || git commit -m 'Update blog, projects, and contributions [bot]'
+          git push
