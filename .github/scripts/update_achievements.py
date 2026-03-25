@@ -27,9 +27,21 @@ def fetch_achievements(username):
     return achievements
 
 def format_achievements(achievements):
-    lines = [ACHIEVEMENTS_START, "<ul>"]
+    # Add a simple bounce animation using inline CSS
+    animation_style = (
+        "@keyframes bounce {"
+        "0%, 100% { transform: translateY(0); }"
+        "50% { transform: translateY(-8px); }"
+        "}"
+        ".animated-achv { animation: bounce 1s infinite; display: inline-block; }"
+    )
+    lines = [
+        ACHIEVEMENTS_START,
+        f'<style>{animation_style}</style>',
+        "<ul>"
+    ]
     for alt, src, count in achievements:
-        lines.append(f'  <li>{alt} <img src="{src}" width="24" alt="{alt}"/>{count}</li>')
+        lines.append(f'  <li>{alt} <img class="animated-achv" src="{src}" width="24" alt="{alt}"/>{count}</li>')
     lines.append("</ul>")
     return "\n".join(lines)
 
