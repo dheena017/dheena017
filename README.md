@@ -21,6 +21,58 @@
 <h1 align="center">Hi 👋, I'm Dheena
 	<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="32" height="32" alt="GitHub Icon"/>
 </h1>
+<p align="center"><b>Empowering ideas with AI, automation, and open source innovation.</b></p>
+---
+
+<h2>🌟 Featured Projects</h2>
+<ul>
+	<li><a href="https://github.com/dheena017/awesome-ai-workflows"><b>Awesome AI Workflows</b></a> &mdash; Curated collection of AI-powered workflow automations <img src="https://img.shields.io/github/stars/dheena017/awesome-ai-workflows?style=social" alt="Stars"/></li>
+	<li><a href="https://github.com/dheena017/agentic-orchestration"><b>Agentic Orchestration</b></a> &mdash; Framework for building agent-based systems <img src="https://img.shields.io/github/stars/dheena017/agentic-orchestration?style=social" alt="Stars"/></li>
+	<li><a href="https://github.com/dheena017/open-webui"><b>Open WebUI</b></a> &mdash; Modern, user-friendly chat interface for LLMs <img src="https://img.shields.io/github/stars/dheena017/open-webui?style=social" alt="Stars"/></li>
+</ul>
+
+---
+
+<h2>🏆 Achievements & Certifications</h2>
+<ul>
+	<li>Microsoft Certified: Azure AI Engineer Associate <img src="https://img.shields.io/badge/Certification-Azure-blue" alt="Azure AI Engineer"/></li>
+	<li>Winner, Open Source Hackathon 2025 <img src="https://img.shields.io/badge/Hackathon-Winner-brightgreen" alt="Hackathon Winner"/></li>
+	<li>1000+ GitHub stars across public projects <img src="https://img.shields.io/github/stars/dheena017?style=social" alt="Total Stars"/></li>
+</ul>
+
+---
+
+<h2>📝 Latest Blog Posts</h2>
+<!-- BLOG-POST-LIST:START -->
+<ul>
+	<li><a href="https://dev.to/dheena017/ai-automation-in-2026">AI Automation in 2026: Trends & Tools</a></li>
+	<li><a href="https://medium.com/@dheena017/agentic-systems-explained">Agentic Systems Explained</a></li>
+	<li><a href="https://dheena017.github.io/blog/llm-workflows">Building LLM Workflows</a></li>
+</ul>
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<h2>🤝 Open Source Contributions</h2>
+<ul>
+	<li>Contributor to <a href="https://github.com/huggingface/transformers">Hugging Face Transformers</a></li>
+	<li>Maintainer of <a href="https://github.com/dheena017/awesome-ai-workflows">Awesome AI Workflows</a></li>
+	<li>Contributor to <a href="https://github.com/crewAI/crewAI">CrewAI</a></li>
+</ul>
+
+---
+
+<h2>🎨 Custom SVG Divider</h2>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/dheena017/assets/main/svg/divider.svg" alt="Custom SVG Divider"/>
+</p>
+
+---
+
+<h2>💬 Let’s Connect & Collaborate!</h2>
+<p align="center">
+	<b>Open to collaborations, speaking, and new opportunities. Reach out below!</b>
+</p>
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Developer;Open+Source+Enthusiast;AI+%26+Automation+Lover" alt="Typing SVG" />
 </p>
@@ -76,14 +128,25 @@ fun_fact: Loves building agentic systems!
 ## 🌐 Connect with Me
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/dheena017/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-	<a href="mailto:dheena017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/dheena017/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:dheena017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+	<a href="https://twitter.com/dheena017"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+---
+
+
+---
+
+<h2>🌍 Visitor Map</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/visitor-badge.svg" alt="Visitor Map"/>
 </p>
 
 ---
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=dheena017&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
+	<img src="https://komarev.com/ghpvc/?username=dheena017&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <!-- Feel free to customize this template further! -->
