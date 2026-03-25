@@ -71,6 +71,15 @@ fun_fact: Loves building agentic systems!
 	<li>1000+ GitHub stars across public projects <img src="https://img.shields.io/github/stars/dheena017?style=social" alt="Total Stars"/></li>
 </ul>
 
+<h3>🏅 GitHub Achievements</h3>
+<ul>
+	<li>Pull Shark <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="24" alt="Pull Shark"/> x2</li>
+	<li>Pair Extraordinaire <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="24" alt="Pair Extraordinaire"/> x2</li>
+	<li>YOLO <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="24" alt="YOLO"/></li>
+	<li>Quickdraw <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="24" alt="Quickdraw"/></li>
+</ul>
+</ul>
+
 ---
 
 <h2>📝 Latest Blog Posts</h2>
