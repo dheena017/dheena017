@@ -183,9 +183,18 @@ fun_fact: Loves building agentic systems!
 
 ---
 
+
 <h2>🌍 Visitor Map</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/visitor-badge.svg" alt="Visitor Map"/>
+	<style>
+		@keyframes pulse {
+			0% { filter: drop-shadow(0 0 0 #00bfff); }
+			50% { filter: drop-shadow(0 0 12px #00bfff); }
+			100% { filter: drop-shadow(0 0 0 #00bfff); }
+		}
+		.animated-map { animation: pulse 2s infinite; }
+	</style>
+	<img class="animated-map" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Equirectangular_projection_SW.jpg" width="320" alt="Animated Visitor Map"/>
 </p>
 
 ---
