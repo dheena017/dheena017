@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Dheena
-	<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="32" height="32" alt="GitHub Icon"/>
+	<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="32" height="32" alt="GitHub Icon"/>
 </h1>
 <p align="center"><b>Empowering ideas with AI, automation, and open source innovation.</b></p>
 
@@ -11,7 +11,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-	<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+	<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Animated coding GIF"/>
 </p>
 
 ```yaml
@@ -42,15 +42,15 @@ fun_fact: Loves building agentic systems!
 
 <h2>🧰 Tools and Tech Stuff</h2>
 <p align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ fun_fact: Loves building agentic systems!
 
 <h2>🎨 Custom SVG Divider</h2>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dheena017/assets/main/svg/divider.svg" alt="Custom SVG Divider"/>
+	<!-- <img src="https://raw.githubusercontent.com/dheena017/assets/main/svg/divider.svg" alt="Custom SVG Divider"/> -->
 </p>
 
 ---
