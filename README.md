@@ -31,4 +31,7 @@ focus:
   - Agentic Orchestration
   - LLM Workflows
   - Open Source DevOps
+learning:
+  - Advanced RAG Architectures
+  - Distributed AI Training
 fun_fact: I love making machines do the heavy lifting!
